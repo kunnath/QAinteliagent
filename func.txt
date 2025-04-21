@@ -1,0 +1,10 @@
+Functional Requirements – Dinexora Website
+
+3.1 Home Page
+	•	Welcome section featuring Dinexora branding
+	•	Language switcher (EN / DE)
+	•	Quick links to:
+	•	Services
+	•	About
+	•	Values
+	•	Contact
